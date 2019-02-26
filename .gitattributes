@@ -2,3 +2,4 @@
 * text=auto
 *.manifest binary
 *.application binary
+*.deploy binary
